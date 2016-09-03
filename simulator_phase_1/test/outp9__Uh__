@@ -1,0 +1,548 @@
+0.000000 - Simulator program starting
+0.000014 - OS: Starting process 1
+0.000069 - Process 1 : start hard drive input
+0.000076 - Process 1 : end hard drive input
+
+0.000149 - Process 1 : start monitor output
+0.000150 - Process 1 : end monitor output
+
+0.000180 - Process 1 : start hard drive input
+0.000181 - Process 1 : end hard drive input
+
+0.000286 - Process 1 : start hard drive output
+0.000288 - Process 1 : end hard drive output
+
+0.000346 - Process 1 : start hard drive input
+0.000347 - Process 1 : end hard drive input
+
+0.000377 - Process 1 : start hard drive output
+0.000378 - Process 1 : end hard drive output
+
+0.000406 - Process 1 : start hard drive input
+0.000407 - Process 1 : end hard drive input
+
+0.000421 - Process 1 : start monitor output
+0.000422 - Process 1 : end monitor output
+
+0.000434 - Process 1 : start hard drive input
+0.000434 - Process 1 : end hard drive input
+
+0.000440 - Process 1 : start processing action
+0.000443 - Process 1 : end processing action 
+
+0.000452 - Process 1 : start hard drive output
+0.000452 - Process 1 : end hard drive output
+
+0.000465 - Process 1 : start keyboard input
+1.000596 - Process 1 : end keyboard input
+
+1.000744 - Process 1 : start monitor output
+1.000749 - Process 1 : end monitor output
+
+1.000838 - Process 1 : start hard drive input
+1.000842 - Process 1 : end hard drive input
+
+1.000868 - Process 1 : start processing action
+1.000876 - Process 1 : end processing action 
+
+1.000878 - Process 1 : start processing action
+1.000879 - Process 1 : end processing action 
+
+1.000919 - Process 1 : start hard drive output
+1.000921 - Process 1 : end hard drive output
+
+1.000947 - Process 1 : start processing action
+1.000950 - Process 1 : end processing action 
+
+1.000995 - Process 1 : start hard drive input
+1.000998 - Process 1 : end hard drive input
+
+1.001118 - Process 1 : start monitor output
+1.001125 - Process 1 : end monitor output
+
+1.001234 - Process 1 : start keyboard input
+1.001237 - Process 1 : end keyboard input
+
+1.001303 - Process 1 : start keyboard input
+1.001305 - Process 1 : end keyboard input
+
+1.001339 - Process 1 : start keyboard input
+1.001341 - Process 1 : end keyboard input
+
+1.001375 - Process 1 : start hard drive output
+1.001377 - Process 1 : end hard drive output
+
+1.001394 - Process 1 : start processing action
+1.001402 - Process 1 : end processing action 
+
+1.001423 - Process 1 : start keyboard input
+1.001425 - Process 1 : end keyboard input
+
+1.001458 - Process 1 : start hard drive output
+1.001460 - Process 1 : end hard drive output
+
+1.001493 - Process 1 : start keyboard input
+2.001639 - Process 1 : end keyboard input
+
+2.001785 - Process 1 : start hard drive output
+2.001790 - Process 1 : end hard drive output
+
+2.001878 - Process 1 : start hard drive input
+2.001881 - Process 1 : end hard drive input
+
+2.001938 - Process 1 : start processing action
+2.001946 - Process 1 : end processing action 
+
+2.001948 - Process 1 : start processing action
+2.001949 - Process 1 : end processing action 
+
+2.002017 - Process 1 : start monitor output
+2.002024 - Process 1 : end monitor output
+
+2.002086 - Process 1 : start processing action
+2.002093 - Process 1 : end processing action 
+
+2.002095 - Process 1 : start processing action
+2.002096 - Process 1 : end processing action 
+
+2.002165 - Process 1 : start keyboard input
+2.002173 - Process 1 : end keyboard input
+
+2.002234 - Process 1 : start processing action
+2.002241 - Process 1 : end processing action 
+
+2.002314 - Process 1 : start monitor output
+2.002321 - Process 1 : end monitor output
+
+2.002430 - Process 1 : start hard drive input
+2.002434 - Process 1 : end hard drive input
+
+2.002497 - Process 1 : start monitor output
+2.002499 - Process 1 : end monitor output
+
+2.002516 - Process 1 : start processing action
+2.002523 - Process 1 : end processing action 
+
+2.002525 - Process 1 : start processing action
+2.002527 - Process 1 : end processing action 
+
+2.002550 - Process 1 : start keyboard input
+3.002663 - Process 1 : end keyboard input
+
+3.002732 - Process 1 : start hard drive output
+3.002735 - Process 1 : end hard drive output
+
+3.002758 - Process 1 : start processing action
+3.002765 - Process 1 : end processing action 
+
+3.002794 - Process 1 : start hard drive input
+3.002797 - Process 1 : end hard drive input
+
+3.002835 - Process 1 : start processing action
+3.002838 - Process 1 : end processing action 
+
+3.002839 - Process 1 : start processing action
+3.002841 - Process 1 : end processing action 
+
+3.002842 - Process 1 : start processing action
+3.002843 - Process 1 : end processing action 
+
+3.002904 - Process 1 : start monitor output
+3.002911 - Process 1 : end monitor output
+
+3.003021 - Process 1 : start hard drive input
+3.003024 - Process 1 : end hard drive input
+
+3.003106 - Process 1 : start hard drive output
+3.003109 - Process 1 : end hard drive output
+
+3.003159 - Process 1 : start keyboard input
+3.003161 - Process 1 : end keyboard input
+
+3.003200 - Process 1 : start hard drive output
+3.003202 - Process 1 : end hard drive output
+
+3.003264 - Process 1 : start keyboard input
+3.003266 - Process 1 : end keyboard input
+
+3.003301 - Process 1 : start monitor output
+3.003303 - Process 1 : end monitor output
+
+3.003320 - Process 1 : start processing action
+3.003328 - Process 1 : end processing action 
+
+3.003349 - Process 1 : start hard drive input
+3.003351 - Process 1 : end hard drive input
+
+3.003384 - Process 1 : start monitor output
+3.003386 - Process 1 : end monitor output
+
+3.003419 - Process 1 : start keyboard input
+3.003421 - Process 1 : end keyboard input
+
+3.003437 - Process 1 : start processing action
+3.003439 - Process 1 : end processing action 
+
+3.003458 - Process 1 : start hard drive output
+3.003460 - Process 1 : end hard drive output
+
+3.003477 - OS: Removing process 1
+3.003480 - OS: Starting process 2
+3.003501 - Process 2 : start keyboard input
+3.003503 - Process 2 : end keyboard input
+
+3.003536 - Process 2 : start monitor output
+3.003537 - Process 2 : end monitor output
+
+3.003554 - Process 2 : start processing action
+3.003556 - Process 2 : end processing action 
+
+3.003575 - Process 2 : start hard drive input
+3.003577 - Process 2 : end hard drive input
+
+3.003611 - Process 2 : start monitor output
+3.003612 - Process 2 : end monitor output
+
+3.003645 - Process 2 : start hard drive input
+3.003647 - Process 2 : end hard drive input
+
+3.003680 - Process 2 : start monitor output
+3.003682 - Process 2 : end monitor output
+
+3.003698 - Process 2 : start processing action
+3.003700 - Process 2 : end processing action 
+
+3.003719 - Process 2 : start hard drive input
+3.003721 - Process 2 : end hard drive input
+
+3.003738 - Process 2 : start processing action
+3.003740 - Process 2 : end processing action 
+
+3.003760 - Process 2 : start hard drive output
+3.003762 - Process 2 : end hard drive output
+
+3.003796 - Process 2 : start keyboard input
+4.003943 - Process 2 : end keyboard input
+
+4.004094 - Process 2 : start hard drive output
+4.004100 - Process 2 : end hard drive output
+
+4.004190 - Process 2 : start hard drive input
+4.004194 - Process 2 : end hard drive input
+
+4.004313 - Process 2 : start monitor output
+4.004321 - Process 2 : end monitor output
+
+4.004430 - Process 2 : start keyboard input
+5.004577 - Process 2 : end keyboard input
+
+5.004726 - Process 2 : start monitor output
+5.004731 - Process 2 : end monitor output
+
+5.004878 - Process 2 : start keyboard input
+5.004886 - Process 2 : end keyboard input
+
+5.004951 - Process 2 : start processing action
+5.004959 - Process 2 : end processing action 
+
+5.005032 - Process 2 : start hard drive output
+5.005039 - Process 2 : end hard drive output
+
+5.005149 - Process 2 : start hard drive input
+5.005152 - Process 2 : end hard drive input
+
+5.005234 - Process 2 : start hard drive output
+5.005236 - Process 2 : end hard drive output
+
+5.005277 - Process 2 : start hard drive input
+5.005279 - Process 2 : end hard drive input
+
+5.005313 - Process 2 : start hard drive output
+5.005315 - Process 2 : end hard drive output
+
+5.005351 - Process 2 : start hard drive input
+5.005352 - Process 2 : end hard drive input
+
+5.005426 - Process 2 : start monitor output
+5.005429 - Process 2 : end monitor output
+
+5.005466 - Process 2 : start keyboard input
+5.005468 - Process 2 : end keyboard input
+
+5.005501 - Process 2 : start monitor output
+5.005502 - Process 2 : end monitor output
+
+5.005536 - Process 2 : start hard drive input
+5.005538 - Process 2 : end hard drive input
+
+5.005572 - Process 2 : start monitor output
+5.005574 - Process 2 : end monitor output
+
+5.005591 - Process 2 : start processing action
+5.005599 - Process 2 : end processing action 
+
+5.005620 - Process 2 : start keyboard input
+5.005622 - Process 2 : end keyboard input
+
+5.005655 - Process 2 : start hard drive output
+5.005657 - Process 2 : end hard drive output
+
+5.005690 - Process 2 : start hard drive input
+5.005692 - Process 2 : end hard drive input
+
+5.005725 - Process 2 : start monitor output
+5.005727 - Process 2 : end monitor output
+
+5.005762 - Process 2 : start keyboard input
+6.005845 - Process 2 : end keyboard input
+
+6.005906 - Process 2 : start processing action
+6.005913 - Process 2 : end processing action 
+
+6.005981 - Process 2 : start hard drive output
+6.005988 - Process 2 : end hard drive output
+
+6.006050 - Process 2 : start processing action
+6.006057 - Process 2 : end processing action 
+
+6.006059 - Process 2 : start processing action
+6.006060 - Process 2 : end processing action 
+
+6.006130 - Process 2 : start keyboard input
+7.006283 - Process 2 : end keyboard input
+
+7.006427 - Process 2 : start monitor output
+7.006433 - Process 2 : end monitor output
+
+7.006524 - Process 2 : start hard drive input
+7.006528 - Process 2 : end hard drive input
+
+7.006686 - Process 2 : start hard drive output
+7.006694 - Process 2 : end hard drive output
+
+7.006757 - Process 2 : start processing action
+7.006765 - Process 2 : end processing action 
+
+7.006836 - Process 2 : start keyboard input
+7.006843 - Process 2 : end keyboard input
+
+7.006905 - Process 2 : start processing action
+7.006913 - Process 2 : end processing action 
+
+7.006985 - Process 2 : start hard drive input
+7.006992 - Process 2 : end hard drive input
+
+7.007057 - Process 2 : start hard drive output
+7.007062 - Process 2 : end hard drive output
+
+7.007148 - Process 2 : start hard drive input
+7.007155 - Process 2 : end hard drive input
+
+7.007215 - Process 2 : start monitor output
+7.007218 - Process 2 : end monitor output
+
+7.007256 - Process 2 : start hard drive input
+7.007258 - Process 2 : end hard drive input
+
+7.007292 - Process 2 : start hard drive output
+7.007294 - Process 2 : end hard drive output
+
+7.007328 - Process 2 : start keyboard input
+8.007462 - Process 2 : end keyboard input
+
+8.007606 - Process 2 : start monitor output
+8.007612 - Process 2 : end monitor output
+
+8.007703 - Process 2 : start hard drive input
+8.007707 - Process 2 : end hard drive input
+
+8.007761 - Process 2 : start monitor output
+8.007763 - Process 2 : end monitor output
+
+8.007800 - Process 2 : start processing action
+8.007807 - Process 2 : end processing action 
+
+8.007870 - Process 2 : start hard drive input
+8.007877 - Process 2 : end hard drive input
+
+8.007988 - Process 2 : start hard drive output
+8.007992 - Process 2 : end hard drive output
+
+8.008073 - Process 2 : start hard drive input
+8.008075 - Process 2 : end hard drive input
+
+8.008102 - OS: Removing process 2
+8.008110 - OS: Starting process 3
+8.008134 - Process 3 : start monitor output
+8.008136 - Process 3 : end monitor output
+
+8.008170 - Process 3 : start hard drive input
+8.008172 - Process 3 : end hard drive input
+
+8.008208 - Process 3 : start hard drive output
+8.008210 - Process 3 : end hard drive output
+
+8.008226 - Process 3 : start processing action
+8.008229 - Process 3 : end processing action 
+
+8.008250 - Process 3 : start hard drive input
+8.008252 - Process 3 : end hard drive input
+
+8.008268 - Process 3 : start processing action
+8.008270 - Process 3 : end processing action 
+
+8.008290 - Process 3 : start hard drive output
+8.008292 - Process 3 : end hard drive output
+
+8.008326 - Process 3 : start hard drive input
+8.008328 - Process 3 : end hard drive input
+
+8.008361 - Process 3 : start monitor output
+8.008363 - Process 3 : end monitor output
+
+8.008398 - Process 3 : start hard drive input
+8.008399 - Process 3 : end hard drive input
+
+8.008432 - Process 3 : start monitor output
+8.008434 - Process 3 : end monitor output
+
+8.008468 - Process 3 : start hard drive input
+8.008470 - Process 3 : end hard drive input
+
+8.008486 - Process 3 : start processing action
+8.008488 - Process 3 : end processing action 
+
+8.008507 - Process 3 : start hard drive output
+8.008509 - Process 3 : end hard drive output
+
+8.008525 - Process 3 : start processing action
+8.008527 - Process 3 : end processing action 
+
+8.008529 - Process 3 : start processing action
+8.008530 - Process 3 : end processing action 
+
+8.008550 - Process 3 : start keyboard input
+8.008553 - Process 3 : end keyboard input
+
+8.008568 - Process 3 : start processing action
+8.008570 - Process 3 : end processing action 
+
+8.008590 - Process 3 : start monitor output
+8.008592 - Process 3 : end monitor output
+
+8.008608 - Process 3 : start processing action
+8.008610 - Process 3 : end processing action 
+
+8.008629 - Process 3 : start keyboard input
+8.008631 - Process 3 : end keyboard input
+
+8.008664 - Process 3 : start hard drive output
+8.008666 - Process 3 : end hard drive output
+
+8.008683 - Process 3 : start processing action
+8.008684 - Process 3 : end processing action 
+
+8.008704 - Process 3 : start hard drive input
+8.008706 - Process 3 : end hard drive input
+
+8.008740 - Process 3 : start monitor output
+8.008742 - Process 3 : end monitor output
+
+8.008777 - Process 3 : start hard drive input
+8.008779 - Process 3 : end hard drive input
+
+8.008795 - Process 3 : start processing action
+8.008797 - Process 3 : end processing action 
+
+8.008798 - Process 3 : start processing action
+8.008800 - Process 3 : end processing action 
+
+8.008819 - Process 3 : start monitor output
+8.008821 - Process 3 : end monitor output
+
+8.008838 - Process 3 : start processing action
+8.008840 - Process 3 : end processing action 
+
+8.008860 - Process 3 : start hard drive input
+8.008862 - Process 3 : end hard drive input
+
+8.008878 - Process 3 : start processing action
+8.008880 - Process 3 : end processing action 
+
+8.008899 - Process 3 : start hard drive output
+8.008901 - Process 3 : end hard drive output
+
+8.008917 - Process 3 : start processing action
+8.008919 - Process 3 : end processing action 
+
+8.008937 - Process 3 : start hard drive input
+8.008939 - Process 3 : end hard drive input
+
+8.008973 - Process 3 : start monitor output
+8.008975 - Process 3 : end monitor output
+
+8.009008 - Process 3 : start hard drive input
+8.009009 - Process 3 : end hard drive input
+
+8.009053 - Process 3 : start hard drive output
+8.009055 - Process 3 : end hard drive output
+
+8.009089 - Process 3 : start monitor output
+8.009091 - Process 3 : end monitor output
+
+8.009124 - Process 3 : start hard drive input
+8.009126 - Process 3 : end hard drive input
+
+8.009159 - Process 3 : start hard drive output
+8.009161 - Process 3 : end hard drive output
+
+8.009193 - Process 3 : start keyboard input
+9.009329 - Process 3 : end keyboard input
+
+9.009395 - Process 3 : start hard drive output
+9.009402 - Process 3 : end hard drive output
+
+9.009490 - Process 3 : start hard drive input
+9.009497 - Process 3 : end hard drive input
+
+9.009606 - Process 3 : start monitor output
+9.009610 - Process 3 : end monitor output
+
+9.009690 - Process 3 : start keyboard input
+9.009693 - Process 3 : end keyboard input
+
+9.009721 - Process 3 : start processing action
+9.009729 - Process 3 : end processing action 
+
+9.009768 - Process 3 : start monitor output
+9.009770 - Process 3 : end monitor output
+
+9.009797 - Process 3 : start processing action
+9.009800 - Process 3 : end processing action 
+
+9.009844 - Process 3 : start keyboard input
+9.009847 - Process 3 : end keyboard input
+
+9.009885 - Process 3 : start monitor output
+9.009887 - Process 3 : end monitor output
+
+9.009903 - Process 3 : start processing action
+9.009905 - Process 3 : end processing action 
+
+9.009927 - Process 3 : start hard drive input
+9.009930 - Process 3 : end hard drive input
+
+9.009964 - Process 3 : start monitor output
+9.009965 - Process 3 : end monitor output
+
+9.009999 - Process 3 : start keyboard input
+10.010148 - Process 3 : end keyboard input
+
+10.010295 - Process 3 : start hard drive output
+10.010300 - Process 3 : end hard drive output
+
+10.010389 - Process 3 : start keyboard input
+11.010526 - Process 3 : end keyboard input
+
+11.010684 - OS: Removing process 3
+11.010699 - Simulator program ending

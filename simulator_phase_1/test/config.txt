@@ -1,0 +1,11 @@
+Start Simulator Configuration File
+Version/Phase: 1.0
+File Path: /home/luis/Desktop/CS446/simulator_phase_1/test/meta_data_4.txt
+Processor cycle time (msec): 10
+Monitor display time (msec): 25
+Hard drive cycle time (msec): 50
+Printer cycle time (msec): 500
+Keyboard cycle time (msec): 100
+Log: Log to Both
+Log File Path: /home/luis/Desktop/CS446/simulator_phase_1/test/output.txt
+End Simulator Configuration File
